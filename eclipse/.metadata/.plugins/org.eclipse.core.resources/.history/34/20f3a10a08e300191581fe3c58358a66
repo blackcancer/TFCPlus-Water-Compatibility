@@ -1,0 +1,5 @@
+package com.vidaj.tfcwatercompatibility.asm;
+
+public class TransformerManager {
+
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tfcpluswatercompatibility",
+  "name": "TFC+ Water Compatibility",
+  "description": "This mod lets other mods use TFC fresh water instead of vanilla water.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vidaj, kev12east, Blackcancer"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["terrafiramcraftplus"]
+}
+]

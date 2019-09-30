@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tfcplusrotary",
+  "name": "TFC+ Rotarycraft",
+  "description": "This mod try to bring some compatibility between TFC+ and Rotarycraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Blackcancer"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
